@@ -3,7 +3,6 @@
 Projeto desenvolvido na **UC16/Projeto Integrador**, e conclusão do curso Técnico em Informática SENAC Vila Prudente.
 
 ### O que é o projeto Nerdologia?
-
 Surgiu com o objetivo de desenvolver algo voltado para o público gamer, a finalidade é ser um portal informativo com esse tema específico. 
 
 ### A tela principal do projeto
